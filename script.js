@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // Vanilla Tilt Effect
+    // Tilt Effect
     VanillaTilt.init(document.querySelectorAll('[data-tilt]'), {
         max: 25,
         speed: 400,
